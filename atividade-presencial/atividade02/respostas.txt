@@ -1,0 +1,13 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+	1) Pesquise na bibliografia disponível.Defina o que é:
+
+	a) Sistema Isolado: O sistema isolado é um sistema cujo os dados não são compartilhados, sistema esse que pode acarretar problemas como redundância e inconsistência de dados
+
+	b) Sistema Integrado: O sistema integrado é considerado uma unificação de vários arquivos que, de outro modo seriam distintos, eliminando assim qualquer tipo de redundância entre esses arquivos. Fazendo com que uma única informação
+	armazenada possa ser relacionada e reutilizada por várias outras funcionalidades no sistema.
+

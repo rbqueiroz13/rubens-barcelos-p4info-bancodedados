@@ -1,0 +1,23 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+ --------------------------------------------- Descreva as fases de um Projeto de Banco de Dados: ---------------------------------------------
+	
+	1)  Modelagem Conceitual
+		A modelagem conceitual é a primeira fase de um projeto de BD,  nela é construído um modelo conceitual, na forma de um diagrama
+entidade-relacionamento. Este modelo captura as necessidades da organização em termos de armazenamento de dados de forma independente de implementação
+	
+	2) Projeto Lógico
+		A etapa de projeto lógico tem como objetivo transformar o modelo conceitual da primeira fase em um modelo lógico. Modelo esse que irá definir
+como o banco de dados será implementado em um determinado SGBD.
+
+	3) Projeto Físico
+		Na etapa do projeto físico o BD é enriquecido com detalhes que influnciam diretamente no seu desempenho, mas, que não interfirá na sua funcionalidade.
+Também é decidido como serão representados os dados no BD armazenado.
+
+	
+	
