@@ -1,0 +1,31 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+ --------------------------------------------- Defina os seguintes conceitos centrais da abordagem ER: ---------------------------------------------
+	a) Entidade;
+	O termo entidade  é uma representação do conjunto de informações sobre determinado conceito do sistema. Toda entidade possui atributos, que são
+	as informações que referenciam a entidade.
+	
+	b) Relacionamento;
+	Os relacionamentos de banco de dados são associações entre tabelas que são criadas usando instruções de junção para recuperar dados.
+	
+	c) Atributo;
+	Um atributo é uma função que mapeia um conjunto de entidades em um domínio. Portanto, toda entidade é descrita por um conjunto de pares (atributo, valor do atributo), sendo um par para cada atributo do conjunto de entidades
+
+	d) Dominio de um Atributo;
+	 O conjunto de valores passíveis de serem assumidos por um atributo, será intitulado de domínio. O domínio consiste de um grupo de valores atômicos a partir dos quais um ou mais atributos retiram seus valores rea
+		
+	e) Generalização/especialização;
+	A generalização e a especialização são conceitos usados para representar objetos do mundo real que possuem os mesmos atributos e que podem ser categorizados e que podem ser representados em uma hierarquia que mostra as dependências entre entidades de uma mesma categoria.
+	
+	f) Entidade Associativa;
+	 As entidades associativas são o resultados de relacionamentos m:m. Em geral, as entidades associativas são encontradas
+    	entre entidades tipo. Muitas das vezes, as entidades associativas têm nomes óbvios, pois ocorrem no mundo real. Por exemplo, a entidade associativa do relacionamento disciplinas e alunos, objetivando o lançamento de notas, chama-se avaliação.
+	
+	g) Cardinalidade de um Atributo;
+	A cardinalidade indica quantas ocorrências de entidade podem estar associadas através de um relacionamento. Há duas cardinalidades: máxima e mínima. Considera-se apenas duas cardinalidades mínimas, a opcional e a obrigatória. Dois
+    	valores de cardinalidades máximas são usados: cardinalidade máxima 1 e cardinalidade máxima “muitos”, referida pela letra “m”.
