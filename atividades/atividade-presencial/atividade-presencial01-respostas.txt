@@ -1,0 +1,17 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+1) 
+	a) Dado: O dado é uma informação, basicamente fatos em uma forma primária que podem ser armazenados em algum meio, um dado pode ser pro exemplo um CPF, um nome ou uma data.
+	
+	b) Informação: O termo informação é usado para se referir ao significado dos valores destes dados para algum usuário.
+	
+	c) Arquivo Convencional: O Arquivo Convencional é uma espécie de armazenamento e organização de dados, mas, possui diversos problemas e desvantagens em relação ao banco de dados
+
+	d) Banco de Dados: Um banco de dados é a coleção de dados operacionais armazenados por uma aplicação, cujo objetivo é registrar e manter as informações.
+
+
