@@ -1,0 +1,14 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+-------------------------Uma Entidade Associativa ocorre em relacionamentos n:n.-----------------
+Pede-se:
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+	
+	Tendo como exemplo 3 tabelas, uma tabela Livro, uma tabela Autor e uma tabela Autoria
+
+	Autoria é a nossa Entidade Associativa (N:N), pois, relaciona as 2 tabelas Livro e Autor. E tem como chaves a Chave ID_Livro que está presente na Entidade Livro. E ID_Autor que está presente na Entidade Autor.
