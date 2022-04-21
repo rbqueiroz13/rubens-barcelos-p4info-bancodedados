@@ -1,0 +1,12 @@
+Atividade Presencial 7 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+-------------------------Explique a seguinte afirmação: "Um Modelo deve refletir o seu aspecto temporal".-----------------
+
+	Essa frase basicamente diz que o Banco de Dados deve manter sua principal função, armazenar o histórico dos dados contidos nele para
+	que mesmo que um dia ele sofra atualizações ou algum tipo de mudança, ele ainda deve manter os dados mais antigos para estudo ou para
+	histórico de mudanças

@@ -1,0 +1,33 @@
+Atividade Presencial 9 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+---------------------------------------------Defina uma Tabela e exemplifique o uso de comando SQL que executam operações CRUD: ---------------------------------------------
+
+
+	CREATE: 
+		 CREATE TABLE "TB_CLIENTES" (
+	"ID"	INTEGER NOT NULL UNIQUE,
+	"COD_CLI"	INTEGER NOT NULL UNIQUE,
+	"NOME_CLI"	TEXT NOT NULL,
+	"END_CLI"	TEXT NOT NULL,
+	PRIMARY KEY("ID" AUTOINCREMENT)
+	
+	INSERT INTO "main"."TB_CLIENTES"
+	("ID", "COD_CLI", "NOME_CLI", "END_CLI")
+	VALUES (1, 3, 'JOSE FELIPE', 'AVENIDA L NUMERO 531');
+		
+	READ: 
+	
+	SELECT COD_CLI, NOME_CLI FROM TB_CLIENTES
+
+	UPDATE:
+
+	UPDATE TB_CLIENTES SET END_CLI="RUA O NUMERO 540" WHERE COD_CLI =3;
+
+	DELETE: 
+
+	DELETE FROM TB_CLIENTES WHERE COD_CLI =3;

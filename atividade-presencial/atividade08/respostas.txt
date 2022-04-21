@@ -1,0 +1,39 @@
+Atividade Presencial 8 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+	 ---------------------------------------------Quanto a Abordagem Relacional, descreva os seguintes conceitos: ---------------------------------------------
+
+	a) Tabela:
+	 Organiza e agrupa os seus dados por características ou princípios em comum. O banco de dados pode conter quantas
+   	 tabelas forem necessárias para organizar os seus dados.
+
+	b) Chave Primária
+	A Primary Key é o identificador único de um registro na tabela. Pode ser constituída de um campo (chave simples) ou pela combinação de dois ou mais campos.
+	
+	c) Chave Estrangeira
+	Chave estrangeira, ou Foreign Key (FK), é uma coluna cujos valores aparecem necessariamente na chave primária, sendo esse um mecanismo
+	que permite o uso dela um relacionamento entre as tabelas de um banco de dados. Sendo essa chave estrangeira uma ligação entre as tabelas.
+	
+	d) Chave Alternativa
+	Uma chave alternativa é o nome dado as chaves da tabela que não foram definidas como Primary Keys.
+	
+	e) Dominio da Coluna
+	Quando uma tabela do banco de dados é definida, para cada coluna da tabela deve ser espeficado um conjunto de valores que os campos da respectiva coluna podem assumir. Valores esses
+	denominados Dominio da Coluna.
+	
+	f) Integridade de Dominio
+	Restringe os valores que podem ser gravados em uma coluna de uma tabela. A coluna possui um domínio e o campo está restrito ao conjunto de valores
+	definido.
+	
+	g) Integridade de Vazio
+	Essa integridade informa se a coluna é obrigatória ou opcional, se é vazia ou não vazia.
+
+	h) Integridade de Chave
+	Essa integridade informa que os valores que foram inseridos na Primary Key devem ser únicos.
+
+	i) Integridade Referencial
+	Essa integridade afirma que um valor que é uma chave estrangeira em uma tabela, deve ser chave primária de algum registro na tabela origem.
