@@ -1,0 +1,38 @@
+Atividade Presencial 1 - Banco de Dados
+Aluno: Rubens Barcelos de Queiroz
+Período: 4 
+Curso: Informática.
+Professor: Ricardo Duarte Taveira.
+
+
+	 --------------------------------------------- Quanto a cardinalidade que define um relacionamento, pede-se: ---------------------------------------------
+		
+	a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima
+	A cardinalidade mínima define se o relacionamento entre duas entidades é obrigatório ou não. Nela temos o número mínimo de vezes na qual
+	Uma entidade A pode ocorrer em B, ela pode assumir o valor de 0 ou 1.
+	
+	Por exemplo: Podemos usar a Entidade Estado e a entidade Cidade, uma cidade pertence a pelo menos 1 país.
+
+	Já a cardinalidade máxima define o número máximo de ocorrências nas quais a entidade pode participar do relacionamento
+	Nela  temos o número máximo de vezes que uma entidade A pode ocorrer em B, ele podendo assumir o valor de 1 ou N 
+	
+	Exemplo: Tendo a Entidade Estado e Cidade novamente, um Estado possui várias cidades. 
+
+	Juntando as duas cardinalidades obtemos o chamado modelo lógico, com o Estado pertencendo a no minimo 1 cidade e no máximo várias cidades.
+	
+	b) Explique um exemplo de uma cardinalidade 1:1;
+	
+	Um exemplo disso é 2 tabelas, uma tabela esposo e outra tabela esposa, cada Esposo só pode ter uma única esposa bem como
+	Cada esposa só pode ter um único esposo (1:1)
+	
+	c) Explique um exemplo de uma cardinalidade 1:n;
+
+	A Cardinalidade 1:n indica a relação entre duas tabelas em que cada elemento de uma tabela A pode se relacionar com nenhum ou vários elementos da tabela B. Porém, cada elemento de B só pode se relacionar com um elemento de A.
+	assim sendo, cada B terá uma entrada de chave que se refere à tabela A (Foreign Key) ou chave estrangeira.
+		Exemplo: Uma mulher pode ter 0 ou vários filhos, mas, um filho só pode ter uma mãe. 
+	
+	d) Explique um exemplo de uma cardinalidade n:n.
+
+	O relacionamento NN define que um item de uma tabela pode se relacionar com vários itens de uma outra tabela e vice-versa. Por exemplo:
+	Imaginando duas tabelas, Produtos e pedidos. Um produto pode ser vendido diversas vezes e um pedido pode ter muitos produtos, esse exemplo caracteriza o relacionamento N:N
+
